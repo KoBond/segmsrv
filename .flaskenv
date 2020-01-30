@@ -1,0 +1,1 @@
+FLASK_APP=main.pyFLASK_RUN_HOST=0.0.0.0FLASK_RUN_PORT=443FLASK_ENV=productionFLASK_ENV_=developmentFLASK_DEBUG=0FLASK_RUN_CERT=certificates/cert.pemFLASK_RUN_KEY=certificates/key.pem
